@@ -157,3 +157,4 @@ class AuthentionDatabase:
             decrypted_entries.append((website, site_username, plaintext))
 
         return decrypted_entries
+    
